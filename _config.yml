@@ -15,7 +15,7 @@ title_separator          : "-"
 name                     : "pibook"
 description              : "Programming Interactivity Greek Book."
 url                      : "https://605611da04dd7477ab3c8c3c--boring-hawking-6f8463.netlify.app"
-baseurl                  : "/site"
+baseurl                  : ""
 repository               : "https://github.com/p18mili1/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -65,7 +65,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://605611da04dd7477ab3c8c3c--boring-hawking-6f8463.netlify.app/site"
+  home             : "https://605611da04dd7477ab3c8c3c--boring-hawking-6f8463.netlify.app"
   bitbucket        :
   codepen          :
   dribbble         :

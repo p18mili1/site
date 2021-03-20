@@ -14,7 +14,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "pibook"
 description              : "Programming Interactivity Greek Book."
-url                      : "https://605611da04dd7477ab3c8c3c--boring-hawking-6f8463.netlify.app"
+url                      : "https://mybookp18mili1.netlify.app"
 baseurl                  : ""
 repository               : "https://github.com/p18mili1/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -59,20 +59,20 @@ social:
 
 # Site Author
 author:
-  name             : "Xristos Milios"
+  name             : "Konstantinos Chorianopoulos"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
   email            :
   uri              :
-  home             : "https://605611da04dd7477ab3c8c3c--boring-hawking-6f8463.netlify.app"
+  home             : "https://www.epidro.me"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "p18mili1"
+  github           : "epidrome"
   gitlab           :
   google_plus      :
   keybase          :

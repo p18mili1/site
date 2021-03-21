@@ -23,5 +23,6 @@ slides:
   - reactable-music
   - reactivision-simulator
   - reactable-fountain
+  - etoys
 ---
 

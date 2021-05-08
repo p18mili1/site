@@ -19,5 +19,5 @@
 	url = https://github.com/pibook/bibliography.git
 	branch = master
 [submodule "extras"]
-	path = extras
+	path = _includes/extras
 	url = https://github.com/p18mili1/extras.git

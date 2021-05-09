@@ -13,3 +13,9 @@
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/p18mili1/extras.git
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/p18mili1/_gallery.git
+[submodule "images"]
+	path = images
+	url = https://github.com/p18mili1/images.git

@@ -17,6 +17,6 @@ gallery:
   
 ---
 
-{% include extras/cs-google_search.md %}
+{% include extras/cs-google-translate.md %}
 
 {% include gallery %}
